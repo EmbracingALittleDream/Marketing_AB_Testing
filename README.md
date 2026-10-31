@@ -67,7 +67,6 @@ Bộ dữ liệu chứa thông tin về nhóm thử nghiệm, hành vi chuyển 
 Marketing_AB_Testing/
 ├── Python/          # Mã nguồn phân tích bằng Python
 ├── R/               # Mã nguồn kiểm định thống kê bằng R
-├── .gitignore       # Loại trừ bộ dữ liệu khỏi Git
 └── README.md        # Tài liệu giới thiệu dự án
 ```
 
